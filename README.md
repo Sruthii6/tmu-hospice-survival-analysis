@@ -92,7 +92,6 @@ This project demonstrates how interpretable models and neural architectures can 
 
 ---
 
-
 ## Repository Structure
 
 ```bash
@@ -113,6 +112,7 @@ This project demonstrates how interpretable models and neural architectures can 
 │   ├── learning_curve_*.png
 ├── requirements.txt
 └── README.md
+
 
 ---
 
