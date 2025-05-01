@@ -1,6 +1,6 @@
 # 🩺 TMU-Hospital Hospice Survival Analysis
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Model](https://img.shields.io/badge/Models-KaplanMeier%20|%20Cox%20PH%20|%20LSTM-orange)
 ![Imputation](https://img.shields.io/badge/MissingData-KNN--imputed-lightgrey)
@@ -113,6 +113,8 @@ This project demonstrates how interpretable models and neural architectures can 
 │   ├── learning_curve_*.png
 ├── requirements.txt
 └── README.md
+
+---
 
 ## Citation
 
